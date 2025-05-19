@@ -1,4 +1,4 @@
-print("ich bin die neue Datei")
-
-
-print('ich komme aus Branch')
+a = 15
+b = 10
+print(a)
+print(b)
